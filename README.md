@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate Coding Enthusiast from India</h3>
 
