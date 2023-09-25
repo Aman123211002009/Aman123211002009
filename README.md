@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif))]
+![Banner](https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif)
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate Coding Enthusiast from India</h3>
 
